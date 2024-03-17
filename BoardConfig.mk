@@ -167,6 +167,6 @@ RECOVERY_BINARY_SOURCE_FILES += $(TARGET_OUT_EXECUTABLES)/hw/android.hardware.vi
 
 #For_PB
 PB_DISABLE_DEFAULT_DM_VERITY := true
-PB_TORCH_PATH := "/sys/class/leds/./brightness"
+PB_TORCH_PATH := /sys/class/backlight/panel0-backlight/brightness
 
 
