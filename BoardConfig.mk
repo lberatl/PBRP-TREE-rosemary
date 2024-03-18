@@ -168,5 +168,5 @@ RECOVERY_BINARY_SOURCE_FILES += $(TARGET_OUT_EXECUTABLES)/hw/android.hardware.vi
 #For_PB
 PB_DISABLE_DEFAULT_DM_VERITY := true
 PB_TORCH_MAX_BRIGHTNESS := 1
-PB_TORCH_PATH := "/sys/devices/platform/flashlight_core/"
+
 
