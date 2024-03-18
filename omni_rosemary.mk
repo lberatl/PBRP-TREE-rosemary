@@ -33,7 +33,7 @@ $(call inherit-product, vendor/pb/config/common.mk)
 PRODUCT_DEVICE := rosemary
 PRODUCT_NAME := omni_rosemary
 PRODUCT_BRAND := Redmi
-PRODUCT_MODEL := rosemary
+PRODUCT_MODEL := Note 10S 
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_RELEASE_NAME := Redmi Note 10S
 
