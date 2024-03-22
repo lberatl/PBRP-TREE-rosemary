@@ -170,6 +170,4 @@ PB_DISABLE_DEFAULT_DM_VERITY := true
 PB_TORCH_MAX_BRIGHTNESS := 1
 PB_TORCH_PATH := "/sys/devices/platform/flashlights_mt6360/torch_brightness"
 
-#dt2w
-TARGET_TAP_TO_WAKE_NODE := "/sys/touchpanel/double_tap"
 
